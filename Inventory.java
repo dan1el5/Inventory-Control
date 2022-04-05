@@ -28,7 +28,7 @@ public class Inventory {
   }
   
   /*
-   * Constructor
+   * checkLow
    * Precondition: N/A
    * Postcondition: low value is returned either true of false
    */
@@ -42,7 +42,7 @@ public class Inventory {
   }
   
   /*
-   * Constructor
+   * checkHigh
    * Precondition: N/A
    * Postcondition: high value is returned either true or false
    */
